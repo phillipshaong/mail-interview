@@ -5,7 +5,7 @@ Included in this repo are model scores for a model which was recently validated 
 
 Moreover, plot a distribution of the model scores. 
 
-You are free to use google in this exercise and have one hour to complete. Codes must be clearly documented or commeted and be readable. Furthermore, we have included an example of an application we recently developed to help with validation of Models.
+You are free to use google in this exercise. Codes must be clearly documented or commeted and be readable. Furthermore, we have included an example of an application we recently developed to help with validation of Models.
 
 Please refer to this repo for the PSI function: https://github.com/mwburke/population-stability-index
 
