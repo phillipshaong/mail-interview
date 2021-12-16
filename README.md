@@ -9,6 +9,7 @@ cubes(5) ➞ 125
 cubes(10) ➞ 1000
 
 def cubes(a):
+
 	retunr a ** 3
   
   
