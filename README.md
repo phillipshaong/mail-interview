@@ -3,7 +3,9 @@ CODE CHALLENGE:
 1) Fix the code in the code tab to pass this challenge (only syntax errors). Look at the examples below to get an idea of what the function should do.
 Examples
 cubes(3) ➞ 27
+
 cubes(5) ➞ 125
+
 cubes(10) ➞ 1000
 
 def cubes(a):
@@ -14,8 +16,11 @@ def cubes(a):
 Examples
 
 remainder(1, 3) ➞ 1
+
 remainder(3, 4) ➞ 3
+
 remainder(-9, 45) ➞ -9
+
 remainder(5, 5) ➞ 0
 
 function remainder(x, y) {
