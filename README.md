@@ -5,9 +5,7 @@ Examples
 
 ```
 cubes(3) ➞ 27
-
 cubes(5) ➞ 125
-
 cubes(10) ➞ 1000
 ```
 
@@ -26,13 +24,10 @@ Examples
 
 ```
 remainder(1, 3) ➞ 1
-
 remainder(3, 4) ➞ 3
-
 remainder(-9, 45) ➞ -9
-
 remainder(5, 5) ➞ 0
-}
+
 ```
 
 
